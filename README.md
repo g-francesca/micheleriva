@@ -1,2 +1,2 @@
-# Guess who wrote all that bad stuff?
-![mitch](https://media.giphy.com/media/PllyuUTPUHjqWqox5l/giphy.gif)
+# Guess who wrote that bug?
+<img src="https://media.giphy.com/media/llNyEwZQOJj6tZhhIB/giphy.gif" width="250" />
