@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Michele
 
-![Profile visits](https://badges.pufler.dev/visits/micheleriva/micheleriva?label=Profile%20visits)
+![Profile visits](https://badges.pufler.dev/visits/micheleriva/micheleriva?label=Profile%20visits&style=flat-square)
 
 - 🏢 I'm currently working as a **Senior Software Engineer** at **[ViacomCBS](https://viacbs.com)**
 - 💼 I've co-founded **[Hackdoor](https://hackdoor.io)**
