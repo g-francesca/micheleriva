@@ -10,7 +10,7 @@
 - ✍️ I write **[dozens of public domains articles](https://www.hackdoor.io/authors/3nxYO2ek/michele-riva)**
 
 ## My favourite piece of code ever
-The **Y Combinator**. Leran more [here](https://www.youtube.com/watch?v=9T8A89jgeTI)!
+The **Y Combinator**. Learn more [here](https://www.youtube.com/watch?v=9T8A89jgeTI)!
 
 ```
 λf.(λx.(f(xx))λx.(f(xx)))
